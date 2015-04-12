@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal
+END
+tpoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tpoll.h
+END
+tfcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tfcntl.h
+END
+tstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tstring.h
+END
+tsafecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsafecode.h
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/siginfo.h
+END
+tipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tipc.h
+END
+tapi_external.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tapi_external.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/getopt.h
+END
+tos.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tos.h
+END
+tstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tstdlib.h
+END
+tstdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tstdio.h
+END
+tsemaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsemaphore.h
+END
+tdirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tdirent.h
+END
+tsched.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsched.h
+END
+tshm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tshm.h
+END
+tresource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tresource.h
+END
+tlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tlock.h
+END
+ttime.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/ttime.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/err.h
+END
+tthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tthread.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tree.h
+END
+tsignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsignal.h
+END
+tdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tdir.h
+END
+tfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tfile.h
+END
+tsem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsem.h
+END
+texec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/texec.h
+END
+terrno.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/terrno.h
+END
+tnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tnet.h
+END
+tdlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tdlfcn.h
+END
+pal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/pal.h
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/pcreposix.h
+END
+tsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tsocket.h
+END
+trules.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/trules.h
+END
+tmmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tmmap.h
+END
+tuio.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tuio.h
+END
+tinet.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tinet.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/queue.h
+END
+tmsgque.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tmsgque.h
+END
+tfork.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tfork.h
+END
+tmutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/tmutex.h
+END
+ttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/ttypes.h
+END
+twait.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/pal/twait.h
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sap/!svn/ver/78261/rob/qhelper-dnf2/comm
+END
+comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm.h
+END
+comm_dbmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_dbmanager.h
+END
+iplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/iplib.h
+END
+comm_iptools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_iptools.cpp
+END
+NDS_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/NDS_exception.h
+END
+comm_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/comm_strings.h
+END
+rob_ics_oper.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/rob_ics_oper.h
+END
+comm_datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_datetime.h
+END
+rob_anlys_valid.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/rob_anlys_valid.h
+END
+comm_c_flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/comm_c_flags.h
+END
+rob_anlys_ip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/rob_anlys_ip.cpp
+END
+log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/log.cpp
+END
+Solution1.suo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/Solution1.suo
+END
+NDS_trim.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/NDS_trim.h
+END
+rob_rule_logic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/rob_rule_logic.cpp
+END
+comm_logmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_logmanager.cpp
+END
+glog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/glog.cpp
+END
+HttpRpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/HttpRpc.h
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/conf.h
+END
+comm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm.cpp
+END
+comm_dbmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_dbmanager.cpp
+END
+comm_value.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_value.h
+END
+iplib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/iplib.cpp
+END
+comm_strings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/comm_strings.cpp
+END
+rob_ics_oper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78248/rob/qhelper-dnf2/comm/rob_ics_oper.cpp
+END
+comm_datetime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_datetime.cpp
+END
+rob_anlys_valid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78261/rob/qhelper-dnf2/comm/rob_anlys_valid.cpp
+END
+comm_iptools.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_iptools.h
+END
+NDS_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/NDS_config.h
+END
+HttpRpc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/HttpRpc.cpp
+END
+conf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/conf.cpp
+END
+rob_anlys_ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/rob_anlys_ip.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/log.h
+END
+comm_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_value.cpp
+END
+msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/msg.h
+END
+rob_rule_logic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/rob_rule_logic.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/makefile
+END
+comm_logmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/comm/comm_logmanager.h
+END
+glog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/comm/glog.h
+END

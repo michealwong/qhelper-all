@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/StdAfx.h
+END
+XmlException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/XmlException.cpp
+END
+XmlException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/XmlException.h
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/Node.cpp
+END
+XercesString.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/XercesString.h
+END
+AltovaXMLAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/AltovaXMLAPI.h
+END
+AltovaXML.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/AltovaXML.vcproj
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/StdAfx.cpp
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/Node.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/AltovaXML/Makefile
+END

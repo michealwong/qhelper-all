@@ -1,0 +1,60 @@
+<%$begin$%>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>用户角色信息查询</title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<link href="/csFile/oss.css" rel="stylesheet" type="text/css">
+    <script language="javascript" src="/jsFile/File_config.js"></script>
+    <script language="javascript" src="/jsFile/pageD.js"></script>
+    <script language="javascript" src="/jsFile/dwc.js"></script>
+    <script language="javascript" src="/jsFile/Calendar.js"></script>
+    <script language="javascript" src="/jsFile/gburl.js"></script>
+    <script language="javascript" src="/jsFile/ajaxrequest.js"></script>
+    <script type="text/javascript">
+    function do_submit(sel_Worldid, uin, charac_no, level) {
+       var LastLoginTime    = document.getElementById("LastLoginTime_"+charac_no).value;
+       var RobedTime        = document.getElementById("RobedTime_"+charac_no).value;       
+       window.location.href = "/cgi-bin/auto_rob/rob_disp_manual_login?flag=no&sel_Worldid=" + sel_Worldid
+       + "&hid_Uin="        + uin
+       + "&hid_BeginTime="  + LastLoginTime
+       + "&hid_EndTime="    + RobedTime
+       + "&hid_RoleId="     + charac_no
+       + "&hid_RoleLevel="  + level;
+    }
+    </script>
+</head>
+<body topMargin="0" onmouseover="self.status='用户角色列表查询';return true">
+</body>
+</html>
+<table class=list border=1 width=100%>
+    <tr>
+        <td align=center><font color="#ff3300">大区ID</font></td>
+    <!--    <td align=center><font color="#ff3300">ZoneIP</font></td>-->
+        <td align=center><font color="#ff3300">被盗QQ</font></td>
+        <td align=center><font color="#ff3300">被盗角色名</font></td>
+        <td align=center><font color="#ff3300">角色Gid</font></td>           
+       <!-- <td align=center><font color="#ff3300">性别</font></td>            -->
+        <!--<td align=center><font color="#ff3300">等级</font></td>-->
+        <td align=center><font color="#ff3300">最后登陆时间</font></td>
+        <td align=center><font color="#ff3300">发现被盗时间</font></td>
+        <td align=center><font color="#ff3300">操作</font></td>
+    </tr>
+<%$begin$%>    
+    <%$roleinfo$%>
+    <tr bgcolor="<%$bgcolor$%>">
+        <td align=center><%$sel_Worldid$%></td>
+      <!--  <td align=center><%$zoneip$%></td>     -->
+        <td align=center><%$uin$%></td>
+        <td align=center><%$charac_name$%></td>
+        <td align=center><%$charac_no$%></td>          
+     <!--   <td align=center><%$gender$%></td>       -->
+       <!-- <td align=center><%$level$%></td>-->
+        <td align=center><input type=text id="LastLoginTime_<%$charac_no$%>" value="<%$LastLoginTime$%>"></td>
+        <td align=center><input type=text id="RobedTime_<%$charac_no$%>" value="<%$RobedTime$%>"></td>
+        <td align=center><a href="javascript:do_submit('<%$sel_Worldid$%>','<%$uin$%>','<%$charac_no$%>','<%$level$%>');">开始分析</a></td>
+    </tr>
+<%$roleinfo$%>
+<%$end$%>
+</table>
+<%$end$%>

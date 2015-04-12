@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/lib
+END
+libxerces-c-3.1.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libxerces-c-3.1.so
+END
+libxerces-c.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libxerces-c.so
+END
+liblog4cplus.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/liblog4cplus.so
+END
+libWSFlowControl.so
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libWSFlowControl.so
+END
+libxml2.so
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sap/!svn/ver/78224/rob/qhelper-dnf2/lib/libxml2.so
+END
+libtsf4g.a
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtsf4g.a
+END
+libAltova.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78271/rob/qhelper-dnf2/lib/libAltova.so
+END
+libtsf4g.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtsf4g.so
+END
+libmysqlclient.so.15
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libmysqlclient.so.15
+END
+libmysqlclient.so.16
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libmysqlclient.so.16
+END
+libWSDBManager.so
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libWSDBManager.so
+END
+libmuparser.so.0
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libmuparser.so.0
+END
+libtds.so.5
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtds.so.5
+END
+libUiMenu.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libUiMenu.so
+END
+libzookeeper_mt.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libzookeeper_mt.so
+END
+libmysqlclient.so
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libmysqlclient.so
+END
+libcurl.so.4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libcurl.so.4
+END
+libossbasenetwork.so
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libossbasenetwork.so
+END
+libAutoRob.a
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libAutoRob.a
+END
+libAutoRob.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78271/rob/qhelper-dnf2/lib/libAutoRob.so
+END
+libSapUi.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libSapUi.so
+END
+libsap.so
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78271/rob/qhelper-dnf2/lib/libsap.so
+END
+libtdssrv.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtdssrv.so
+END
+libWSLogManager.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libWSLogManager.so
+END
+libtsf4g.so.2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtsf4g.so.2
+END
+libdata_interface.so
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libdata_interface.so
+END
+libtds.so
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libtds.so
+END
+libmuparser.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libmuparser.so
+END
+libsap_func.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libsap_func.so
+END
+libCgiUtil.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libCgiUtil.so
+END
+libsybdb.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libsybdb.so
+END
+libcurl.so
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libcurl.so
+END
+libct.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sap/!svn/ver/78198/rob/qhelper-dnf2/lib/libct.so
+END
+libAltovaXML.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78271/rob/qhelper-dnf2/lib/libAltovaXML.so
+END

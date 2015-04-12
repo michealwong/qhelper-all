@@ -1,0 +1,24 @@
+[2015-04-10 17:17:01]In Valid Proccess,IcsInfo==|ICSID:qhelper_test_20130705_1056|sServiceID:532 | sKindID:0| vCommand:type=3&area=1&role_id=29735054&xxx=test&yyy=123 | sParaNum:0 
+[2015-04-10 17:17:01]In Valid Proccess,DoICSSetRoleInfoPro-IcsInfo==|ICSID:qhelper_test_20130705_1056|iKind:0|vCommand:type=3&area=1&role_id=29735054&xxx=test&yyy=123|iParam_Num:0
+[2015-04-10 17:17:01]解析vCommand字符串, 获得用户服务器, 角色ID, src_cmd: type=3&area=1&role_id=29735054&xxx=test&yyy=123 | dst_opData[type]:3 | dst_opData[area]:1 | dst_opData[role_id]:29735054|iParam_Num:0
+[2015-04-10 17:17:01]In [dnf2] Proccess,前言 准备：角色列表
+[2015-04-10 17:17:02]填单ID：qhelper_test_20130705_1056| 获取玩家QQ：611968423|角色ID：29735054| 角色等级： 13| 工会ID:0
+[2015-04-10 17:17:02]角色id查询信息cmd=type=3&area=1&role_id=29735054&xxx=test&yyy=123&uin=611968423&role_id=29735054&role_name=PDniu&role_level=13&guild_id=0| 获取玩家等级：13|角色名字：PDniu
+[2015-04-10 17:17:02]玩家基本信息更新正确，返回码【0】
+[2015-04-10 17:17:02]In Valid Proccess,玩家基本信息更新正确--IcsInfo==>>>|ICSID:qhelper_test_20130705_1056|UIN:611968423|sRoleID:29735054|sRoleName:PDniu|sRoleLevel:13
+[2015-04-10 17:17:02]In Valid Proccess, --->ProCheckVIPInfo  单号: qhelper_test_20130705_1056| qq号码: 611968423 !
+[2015-04-10 17:17:02]In Valid Proccess, Find Uin 'get_vip_info' success!
+[2015-04-10 17:17:02]In Valid Proccess, Find Uin 'ProCheckRoleLevel' is 用户等级不符合分析要求
+[2015-04-10 19:09:48]In Valid Proccess,IcsInfo==|ICSID:qhelper_test_20130705_1056|sServiceID:532 | sKindID:0| vCommand:type=3&area=1&role_id=29735054&xxx=test&yyy=123 | sParaNum:0 
+[2015-04-10 19:09:48]In Valid Proccess,DoICSSetRoleInfoPro-IcsInfo==|ICSID:qhelper_test_20130705_1056|iKind:0|vCommand:type=3&area=1&role_id=29735054&xxx=test&yyy=123|iParam_Num:0
+[2015-04-10 19:09:48]解析vCommand字符串, 获得用户服务器, 角色ID, src_cmd: type=3&area=1&role_id=29735054&xxx=test&yyy=123 | dst_opData[type]:3 | dst_opData[area]:1 | dst_opData[role_id]:29735054|iParam_Num:0
+[2015-04-10 19:09:48]In [dnf2] Proccess,前言 准备：角色列表
+[2015-04-10 19:09:48]填单ID：qhelper_test_20130705_1056| 获取玩家QQ：611968423|角色ID：29735054| 角色等级： 13| 工会ID:0
+[2015-04-10 19:09:48]角色id查询信息cmd=type=3&area=1&role_id=29735054&xxx=test&yyy=123&uin=611968423&role_id=29735054&role_name=PDniu&role_level=13&guild_id=0| 获取玩家等级：13|角色名字：PDniu
+[2015-04-10 19:09:48]玩家基本信息更新正确，返回码【0】
+[2015-04-10 19:09:48]In Valid Proccess,玩家基本信息更新正确--IcsInfo==>>>|ICSID:qhelper_test_20130705_1056|UIN:611968423|sRoleID:29735054|sRoleName:PDniu|sRoleLevel:13
+[2015-04-10 19:09:48]In Valid Proccess, --->ProCheckVIPInfo  单号: qhelper_test_20130705_1056| qq号码: 611968423 !
+[2015-04-10 19:09:49]In Valid Proccess, Find Uin 'get_vip_info' success!
+[2015-04-10 19:09:49]In Valid Proccess, Find Uin 'ics_user_trans_svr' happened error,not find info
+[2015-04-10 19:09:49]in Valid Proccess,ProCheckIsMaster-IcsInfo==|ICSID:qhelper_test_20130705_1056| dst_opData[area]: | dst_opData[uin]:|iParam_Num:test
+[2015-04-10 19:09:49]In Valid Proccess,DoICSSProCheckIsMaster--guild_info-iRet=-20009

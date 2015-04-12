@@ -1,0 +1,49 @@
+[2015-04-10 17:17:01]Start to ExeQuerier.
+[2015-04-10 17:17:01]532|||QueryId[26806]|ParamsList:[interval=0&interval_up=0&result=0&serial=20-DNF-20150410171701-12957001&service_id=532&size=1&source=20&step=0]|
+[2015-04-10 17:17:01]532|||QueryId[26806]|Result:errCode[0],size:[1],desc:[Sucess]
+[2015-04-10 17:17:01]End to ExeQuerier.
+[2015-04-10 17:17:01]Start to ExeQuerier.
+[2015-04-10 17:17:01]532|||QueryId[26807]|ParamsList:[ics_id=qhelper_test_20130705_1056&result=1&serial=20-DNF-20150410171701-12957002&service_id=532&source=20&step=1]|
+[2015-04-10 17:17:01]532|||QueryId[26807]|Result:errCode[0],size:[0],desc:[Sucess]
+[2015-04-10 17:17:01]End to ExeQuerier.
+[2015-04-10 17:17:01]Start to ExeQuerier.
+[2015-04-10 17:17:01]532|qhelper_test_20130705_1056||QueryId[7433]|ParamsList:[area=1&role_id=29735054&role_name=&serial=20-DNF-20150410171701-12957003&source=20&uin=]|
+[2015-04-10 17:17:02]532|qhelper_test_20130705_1056||QueryId[7433]|Result:errCode[0],size:[1],desc:[Sucess]
+[2015-04-10 17:17:02]End to ExeQuerier.
+[2015-04-10 17:17:02]Start to ExeQuerier.
+[2015-04-10 17:17:02]532|qhelper_test_20130705_1056|611968423|QueryId[26786]|ParamsList:[business=sap&serial=20-DNF-20150410171702-12957004&source=20&uin=611968423]|
+[2015-04-10 17:17:02]532|qhelper_test_20130705_1056|611968423|QueryId[26786]|Result:errCode[0],size:[1],desc:[idipIP:10.217.105.76 idipPORT:6693 result=0&uin=611968423&point=22&type=0&flag=1&begin_date=2011-07-01&vaild_date=2030-12-30&active_type=0&vip_ret=0&_idip_req_id_=&_idip_msg_id_=4036_172.17.150.204_6693_1428657422_1981090707&_tail_request_body_=cmd|110200||business|sap||uin|611968423||source|20||serial|20-DNF-20150410171702-12957004||_idip_msg_id_|4036_172.17.150.204_6693_1428657422_1981090707
+]
+[2015-04-10 17:17:02]End to ExeQuerier.
+[2015-04-10 17:17:02]Start to ExeQuerier.
+[2015-04-10 17:17:02]532|||QueryId[26807]|ParamsList:[ics_id=qhelper_test_20130705_1056&result=13&serial=20-DNF-20150410171702-12957005&service_id=532&source=20&step=3]|
+[2015-04-10 17:17:02]532|||QueryId[26807]|Result:errCode[0],size:[0],desc:[Sucess]
+[2015-04-10 17:17:02]End to ExeQuerier.
+[2015-04-10 19:09:47]Start to ExeQuerier.
+[2015-04-10 19:09:47]532|||QueryId[26806]|ParamsList:[interval=0&interval_up=0&result=0&serial=20-DNF-20150410190947-23304001&service_id=532&size=1&source=20&step=0]|
+[2015-04-10 19:09:47]532|||QueryId[26806]|Result:errCode[0],size:[1],desc:[Sucess]
+[2015-04-10 19:09:47]End to ExeQuerier.
+[2015-04-10 19:09:47]Start to ExeQuerier.
+[2015-04-10 19:09:47]532|||QueryId[26807]|ParamsList:[ics_id=qhelper_test_20130705_1056&result=1&serial=20-DNF-20150410190947-23304002&service_id=532&source=20&step=1]|
+[2015-04-10 19:09:48]532|||QueryId[26807]|Result:errCode[0],size:[0],desc:[Sucess]
+[2015-04-10 19:09:48]End to ExeQuerier.
+[2015-04-10 19:09:48]Start to ExeQuerier.
+[2015-04-10 19:09:48]532|qhelper_test_20130705_1056||QueryId[7433]|ParamsList:[area=1&role_id=29735054&role_name=&serial=20-DNF-20150410190948-23304003&source=20&uin=]|
+[2015-04-10 19:09:48]532|qhelper_test_20130705_1056||QueryId[7433]|Result:errCode[0],size:[1],desc:[Sucess]
+[2015-04-10 19:09:48]End to ExeQuerier.
+[2015-04-10 19:09:48]Start to ExeQuerier.
+[2015-04-10 19:09:48]532|qhelper_test_20130705_1056|611968423|QueryId[26786]|ParamsList:[business=sap&serial=20-DNF-20150410190948-23304004&source=20&uin=611968423]|
+[2015-04-10 19:09:48]532|qhelper_test_20130705_1056|611968423|QueryId[26786]|Result:errCode[0],size:[1],desc:[idipIP:10.217.105.76 idipPORT:6693 result=0&uin=611968423&point=22&type=1&flag=2&begin_date=2015-04-10&vaild_date=2015-04-11&active_type=0&vip_ret=102&_idip_req_id_=&_idip_msg_id_=1108_172.17.150.204_6693_1428664188_1984518672&_tail_request_body_=cmd|110200||business|sap||uin|611968423||source|20||serial|20-DNF-20150410190948-23304004||_idip_msg_id_|1108_172.17.150.204_6693_1428664188_1984518672
+]
+[2015-04-10 19:09:48]End to ExeQuerier.
+[2015-04-10 19:09:49]Start to ExeQuerier.
+[2015-04-10 19:09:49]532|qhelper_test_20130705_1056||QueryId[7659]|ParamsList:[area=&serial=20-DNF-20150410190949-23304005&source=20&uin=]|
+[2015-04-10 19:09:49]Failed to ExeQuerier.ret:500
+[2015-04-10 19:09:49]Start to ExeQuerier.
+[2015-04-10 19:09:49]532|qhelper_test_20130705_1056||QueryId[9125]|ParamsList:[area=&guild_id=&guild_name=&serial=20-DNF-20150410190949-23304006&source=20]|
+[2015-04-10 19:09:49]532|qhelper_test_20130705_1056||QueryId[9125]|Result:errCode[-20009],size:[0],desc:[参数[id]不存在.]
+[2015-04-10 19:09:49]End to ExeQuerier.
+[2015-04-10 19:09:49]Start to ExeQuerier.
+[2015-04-10 19:09:49]532|||QueryId[26807]|ParamsList:[ics_id=qhelper_test_20130705_1056&result=15&serial=20-DNF-20150410190949-23304007&service_id=532&source=20&step=3]|
+[2015-04-10 19:09:49]532|||QueryId[26807]|Result:errCode[0],size:[0],desc:[Sucess]
+[2015-04-10 19:09:49]End to ExeQuerier.

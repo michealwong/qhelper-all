@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2010 rel. 3 (http://www.altova.com) by MESMERiZE (MSM) -->
+<xs:schema xmlns="http://www.nanonull.com/LibrarySample" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.nanonull.com/LibrarySample" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="saproot">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="result">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="errcode" type="xs:int"/>
+							<xs:element name="desc" type="xs:string"/>
+							<xs:element name="datahead">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="column" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="datanum" type="xs:int"/>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="resultset" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="items" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="field" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:simpleContent>
+													<xs:extension base="xs:string">
+														<xs:attribute name="name" type="xs:string" default=""/>
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="name" type="xs:string" default=""/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

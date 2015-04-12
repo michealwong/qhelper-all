@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/rule
+END
+rule_flow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/rule/rule_flow.cpp
+END
+rule_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/rule/rule_flow.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/rule/makefile
+END

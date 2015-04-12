@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers
+END
+DOMLSParserImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/DOMLSParserImpl.hpp
+END
+AbstractDOMParser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/AbstractDOMParser.hpp
+END
+SAX2XMLReaderImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/SAX2XMLReaderImpl.hpp
+END
+SAX2XMLFilterImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/SAX2XMLFilterImpl.hpp
+END
+XercesDOMParser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/XercesDOMParser.hpp
+END
+SAXParser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/parsers/SAXParser.hpp
+END

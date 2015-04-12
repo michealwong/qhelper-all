@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng
+END
+tmib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng/tmib.h
+END
+tsm_tdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng/tsm_tdr.h
+END
+tsm_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng/tsm_uri.h
+END
+tmetabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng/tmetabase.h
+END
+tmng.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tmng/tmng.h
+END

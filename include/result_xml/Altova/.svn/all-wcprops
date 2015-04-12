@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/StdAfx.h
+END
+StructInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/StructInfo.cpp
+END
+xs-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/xs-types.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/exception.h
+END
+StructInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/StructInfo.h
+END
+AltovaException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/AltovaException.cpp
+END
+Altova.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/Altova.vcproj
+END
+AltovaException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/AltovaException.h
+END
+xs-datetime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/xs-datetime.cpp
+END
+SchemaTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/SchemaTypes.cpp
+END
+xs-datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/xs-datetime.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/StdAfx.cpp
+END
+SchemaTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/SchemaTypes.h
+END
+Altova.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/Altova.h
+END
+xs-types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/xs-types.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/Makefile
+END
+AltovaDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Altova/AltovaDefs.h
+END

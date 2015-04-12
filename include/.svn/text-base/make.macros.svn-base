@@ -1,0 +1,47 @@
+#----------------- 全局变量 ----------------------------------------------
+SAP_ROOT=/usr/local/games
+SAP_RELEASE_ROOT=/usr/local/sap
+SAP_DEV=..
+#业务名称这个主要是编译时候，生成目录时候的必要的，每个业务都要修改相应的名称
+ROB_SER=qhelper-dnf2
+
+#----------------- SAP系统库 ----------------------------------------------
+SAP_INC += -I.
+SAP_INC += -I../include
+SAP_INC += -I$(SAP_DEV)/include/libxml2 
+SAP_INC += -I$(SAP_DEV)/include/libxml2/libxml 
+SAP_INC += -I$(SAP_DEV)/include/wsclient 
+SAP_INC += -I$(SAP_DEV)/include/wsclient/logmanager 
+SAP_INC += -I$(SAP_DEV)/include/wsclient/dbmanager 
+SAP_INC += -I$(SAP_DEV)/include/curl
+
+SAP_LIB += -L$(SAP_DEV)/lib -lpthread -ldl -lutil -lrt -lxerces-c -ltds -lcurl
+SAP_LIB += -lAutoRob -lAltovaXML -lAltova -lsap -lsap_func -ldata_interface 
+SAP_LIB += -lWSLogManager -lWSDBManager
+
+
+#----------------- 子系统库----------------------------------------------
+# SAS系统库
+SAS_INC = $(SAP_INC) -include sap.nsmap
+SAS_LIB = $(SAP_LIB)
+
+# SAP Manager系统库
+SAPMG_INC = 
+SAPMG_LIB = 
+
+# SAP SVR系统库
+SAPSVR_INC = 
+SAPSVR_LIB = $(SAP_LIB)
+
+#----------------- 宏定义----------------------------------------------
+INC     += -I. $(SAP_INC) $(SAS_INC) $(SAPSVR_INC)
+LIB     += $(SAP_LIB) $(SAS_LIB) $(SAPSVR_LIB)
+
+COMM_SRCS	?=
+COMM_OBJS	?=
+
+CC      = gcc
+CXX     = g++
+
+INSTALL = cp -rf
+CLEAN   = rm -rf

@@ -1,0 +1,9 @@
+#shared library version
+VERSION = .1
+
+
+#release
+CXXFLAGS += -O3 -fPIC -I../../../include/
+
+#debug
+#CXXFLAGS += -g

@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>盗号自助分析</title>
+<meta http-equiv="Content-Type" content="text/html; charset="utf-8">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+    <link href="/csFile/oss.css" rel="stylesheet" type="text/css">
+    
+    <script language="javascript" src="/jsFile/File_config.js"></script>
+    <script language="javascript" src="/jsFile/pageD.js"></script>
+    <script language="javascript" src="/jsFile/dwc.js"></script>
+    <script language="javascript" src="/jsFile/Calendar.js"></script>
+    <script language="javascript" src="/jsFile/gburl.js"></script>
+    <script language="javascript" src="/jsFile/ajaxrequest.js"></script>    
+    <script language="javascript">
+
+        function PresentItem()
+        {  
+
+            if (document.formMain.hid_Uin.value == "" ) 
+            {
+                alert("QQ不能为空");
+                return;
+            }	         
+            if (document.formMain.sel_Worldid.value == "" ) 
+            {
+                alert("不能对所有大区操作");
+                return;
+            }               
+
+//            alert("world: "+document.formMain.sel_Worldid.value);
+//            alert("uin: "+document.formMain.hid_Uin.value);
+//            alert("sel_BeginDate: "+document.formMain.sel_BeginDate.value);
+//            alert("sel_EndDate: "+document.formMain.sel_EndDate.value);
+//            alert("sel_BeginHour: "+document.formMain.sel_BeginHour.value);
+//            alert("sel_EndHour: "+document.formMain.sel_EndHour.value);            
+            
+            document.getElementById("loadingBar").style.display = "block";
+            window.location.href="/cgi-bin/auto/rob_manul_disprolelist?flag=no&sel_Worldid=" + document.formMain.sel_Worldid.value 
+            + "&hid_Uin=" + document.formMain.hid_Uin.value 
+            + "&sel_BeginDate=" + document.formMain.sel_BeginDate.value  
+            + "&sel_EndDate=" + document.formMain.sel_EndDate.value
+            + "&sel_BeginHour=" + document.formMain.sel_BeginHour.value
+            + "&sel_EndHour=" + document.formMain.sel_EndHour.value;
+       }
+    </script>
+</head>
+
+<body topMargin="0" onmouseover="self.status='盗号分析';return true">
+<form name=formMain action="" method="">
+<script language=javascript>showOperation('盗号分析');</script>
+    
+    <table class=list border=0>
+        <tr>
+            <td align=left style="width: 116px">服务器:</td>
+            <td align=left style="width: ">
+            <script language=javascript>document.write(Server(1));</script>
+            </td>
+        </tr>
+        <tr>
+            <td align=left style="width: 116px">被盗者QQ:</td>
+            <td align=left style="width: "><input type="text" name="hid_Uin" size="20" maxlength="20" value=""  onKeyUp='this.value=this.value.replace(/\D/gi,"")'> </td>
+        </tr>      
+        <tr>
+        </tr>
+            <td align=left style="width: 116px">最后登陆/被盗时间:</td>
+            <td align=left style="width: ">
+            <script language=javascript>document.write(DateDistance(3));</script>
+            </td>
+	    <tr>
+	        <td style="width: 116px"></td>
+	        <td style="width: "><input name="pre_button" type="button" value="提交" onClick="PresentItem()"></td>
+        </tr>
+    </table>
+            
+    <br />
+    <script languge=javascript>showHr();</script>
+   <DIV id=loadingBar align=center style="display:none">操作中......<IMG src="/img/pie.gif"></DIV>
+</form>
+<div id="ResShow" align=center></div>
+</body>
+
+</html>
+

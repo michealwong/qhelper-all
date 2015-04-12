@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/stdcheaders.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/typecheck-gcc.h
+END
+curlbuild.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curlbuild.h.in
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/multi.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/Makefile.in
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/mprintf.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curlrules.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curlver.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/Makefile.am
+END
+curlbuild.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curlbuild.h.cmake
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curl.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/curl/curlbuild.h
+END

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="sap"
+	ProjectGUID="{218D9CD0-D0E1-FC4B-BC14-906B9F8B8BA2}"
+	RootNamespace="sap"
+	Keyword="Win32Proj"
+	>
+	<Platforms>
+		<Platform
+			Name="Win32"
+		/>
+		<Platform
+			Name="x64"
+		/>
+	</Platforms>
+	<ToolFiles>
+	</ToolFiles>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			OutputDirectory="Debug"
+			IntermediateDirectory="Debug"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="0"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;_DEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				MinimalRebuild="true"
+				BasicRuntimeChecks="3"
+				RuntimeLibrary="1"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="4"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\Debug\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="_DEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			OutputDirectory="Release"
+			IntermediateDirectory="Release"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			WholeProgramOptimization="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;NDEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				RuntimeLibrary="0"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\Release\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="NDEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Unicode Debug|Win32"
+			OutputDirectory="UnicodeDebug"
+			IntermediateDirectory="UnicodeDebug"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			CharacterSet="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="0"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;_DEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				MinimalRebuild="true"
+				BasicRuntimeChecks="3"
+				RuntimeLibrary="1"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="4"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\UnicodeDebug\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="_DEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Unicode Release|Win32"
+			OutputDirectory="UnicodeRelease"
+			IntermediateDirectory="UnicodeRelease"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			CharacterSet="1"
+			WholeProgramOptimization="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;NDEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				RuntimeLibrary="0"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\UnicodeRelease\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="NDEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Debug|x64"
+			OutputDirectory="x64\Debug"
+			IntermediateDirectory="x64\Debug"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="0"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;_DEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				MinimalRebuild="true"
+				BasicRuntimeChecks="3"
+				RuntimeLibrary="1"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\x64\Debug\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="_DEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Release|x64"
+			OutputDirectory="x64\Release"
+			IntermediateDirectory="x64\Release"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			WholeProgramOptimization="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;NDEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				RuntimeLibrary="0"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\x64\Release\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="NDEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Unicode Debug|x64"
+			OutputDirectory="x64\UnicodeDebug"
+			IntermediateDirectory="x64\UnicodeDebug"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			CharacterSet="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="0"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;_DEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				MinimalRebuild="true"
+				BasicRuntimeChecks="3"
+				RuntimeLibrary="1"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\x64\UnicodeDebug\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="_DEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+		<Configuration
+			Name="Unicode Release|x64"
+			OutputDirectory="x64\UnicodeRelease"
+			IntermediateDirectory="x64\UnicodeRelease"
+			ConfigurationType="4"
+			UseOfMFC="0"
+			CharacterSet="1"
+			WholeProgramOptimization="1"
+			>
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="..\Altova,..\AltovaXML"
+				PreprocessorDefinitions="WIN32;NDEBUG;sap_EXPORTS;_LIB;_CRT_SECURE_NO_DEPRECATE"
+				StringPooling="true"
+				RuntimeLibrary="0"
+				UsePrecompiledHeader="2"
+				WarningLevel="3"
+				Detect64BitPortabilityProblems="false"
+				DebugInformationFormat="3"
+			/>
+			<Tool
+				Name="VCLibrarianTool"
+				OutputFile="..\sapTest\x64\UnicodeRelease\sap.lib"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="NDEBUG"
+				Culture="1033"
+			/> 
+		</Configuration>
+	</Configurations>
+	<References>
+		<ProjectReference
+			ReferencedProjectIdentifier="{5CCDF85F-DC01-43BF-A2C2-ACB1BD6BEA42}"
+			RelativePathToProject="..\Altova\Altova.vcproj"
+		/>
+		<ProjectReference
+			ReferencedProjectIdentifier="{3E4146D4-2603-4873-B8AE-4B83B18ABE9F}"
+			RelativePathToProject="..\AltovaXML\AltovaXML.vcproj"
+		/>
+	</References>
+	<Files>
+		<Filter
+			Name="Header Files"
+			Filter="h;hpp;hxx;hm;inl;inc;xsd"
+			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
+			>
+			<File RelativePath=".\sap-typeinfo.h"/>
+			<File
+				RelativePath=".\sap.h"
+				>
+			</File>
+			<File
+				RelativePath=".\StdAfx.h"
+				>
+			</File>
+			<Filter
+				Name="Type Headers"
+				UniqueIdentifier="{3796A162-933F-419b-B768-69948FDFDBA6}"
+			>
+				<File RelativePath=".\type_.Csap.h"/>
+				<File RelativePath=".\type_.CsaprootType.h"/>
+				<File RelativePath=".\type_.CresultType.h"/>
+				<File RelativePath=".\type_.CdataheadType.h"/>
+				<File RelativePath=".\type_.CresultsetType.h"/>
+				<File RelativePath=".\type_.CitemsType.h"/>
+				<File RelativePath=".\type_.CfieldType.h"/>
+				<File RelativePath=".\type_xs.CENTITIES.h"/>
+				<File RelativePath=".\type_xs.CENTITY.h"/>
+				<File RelativePath=".\type_xs.CID.h"/>
+				<File RelativePath=".\type_xs.CIDREF.h"/>
+				<File RelativePath=".\type_xs.CIDREFS.h"/>
+				<File RelativePath=".\type_xs.CNCName.h"/>
+				<File RelativePath=".\type_xs.CNMTOKEN.h"/>
+				<File RelativePath=".\type_xs.CNMTOKENS.h"/>
+				<File RelativePath=".\type_xs.CNOTATION.h"/>
+				<File RelativePath=".\type_xs.CName.h"/>
+				<File RelativePath=".\type_xs.CQName.h"/>
+				<File RelativePath=".\type_xs.CanySimpleType.h"/>
+				<File RelativePath=".\type_xs.CanyType.h"/>
+				<File RelativePath=".\type_xs.CanyURI.h"/>
+				<File RelativePath=".\type_xs.Cbase64Binary.h"/>
+				<File RelativePath=".\type_xs.Cboolean.h"/>
+				<File RelativePath=".\type_xs.Cbyte.h"/>
+				<File RelativePath=".\type_xs.Cdate.h"/>
+				<File RelativePath=".\type_xs.CdateTime.h"/>
+				<File RelativePath=".\type_xs.Cdecimal.h"/>
+				<File RelativePath=".\type_xs.Cdouble.h"/>
+				<File RelativePath=".\type_xs.Cduration.h"/>
+				<File RelativePath=".\type_xs.Cfloat.h"/>
+				<File RelativePath=".\type_xs.CgDay.h"/>
+				<File RelativePath=".\type_xs.CgMonth.h"/>
+				<File RelativePath=".\type_xs.CgMonthDay.h"/>
+				<File RelativePath=".\type_xs.CgYear.h"/>
+				<File RelativePath=".\type_xs.CgYearMonth.h"/>
+				<File RelativePath=".\type_xs.ChexBinary.h"/>
+				<File RelativePath=".\type_xs.Cint.h"/>
+				<File RelativePath=".\type_xs.Cinteger.h"/>
+				<File RelativePath=".\type_xs.Clanguage.h"/>
+				<File RelativePath=".\type_xs.Clong.h"/>
+				<File RelativePath=".\type_xs.CnegativeInteger.h"/>
+				<File RelativePath=".\type_xs.CnonNegativeInteger.h"/>
+				<File RelativePath=".\type_xs.CnonPositiveInteger.h"/>
+				<File RelativePath=".\type_xs.CnormalizedString.h"/>
+				<File RelativePath=".\type_xs.CpositiveInteger.h"/>
+				<File RelativePath=".\type_xs.Cshort.h"/>
+				<File RelativePath=".\type_xs.Cstring.h"/>
+				<File RelativePath=".\type_xs.Ctime.h"/>
+				<File RelativePath=".\type_xs.Ctoken.h"/>
+				<File RelativePath=".\type_xs.CunsignedByte.h"/>
+				<File RelativePath=".\type_xs.CunsignedInt.h"/>
+				<File RelativePath=".\type_xs.CunsignedLong.h"/>
+				<File RelativePath=".\type_xs.CunsignedShort.h"/>
+				<File RelativePath=".\type_xs.CintType.h"/>
+				<File RelativePath=".\type_xs.CstringType.h"/>
+			</Filter>
+		</Filter>
+		<Filter
+			Name="Resource Files"
+			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx"
+			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
+			>
+		</Filter>
+		<Filter
+			Name="Source Files"
+			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
+			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
+			>
+			<File
+				RelativePath=".\sap.cpp"
+				>
+			</File>
+
+			<File RelativePath=".\sap-typeinfo.cpp"/>
+			<File
+				RelativePath=".\StdAfx.cpp"
+				>
+				<FileConfiguration
+					Name="Debug|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Release|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Unicode Debug|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Unicode Release|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Debug|x64"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Release|x64"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Unicode Debug|x64"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Unicode Release|x64"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						UsePrecompiledHeader="1"
+					/>
+				</FileConfiguration>
+			</File>
+		</Filter>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>

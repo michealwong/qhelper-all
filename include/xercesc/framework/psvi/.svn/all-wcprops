@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi
+END
+XSAttributeUse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSAttributeUse.hpp
+END
+PSVIElement.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/PSVIElement.hpp
+END
+XSFacet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSFacet.hpp
+END
+XSComplexTypeDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSComplexTypeDefinition.hpp
+END
+XSNamedMap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSNamedMap.hpp
+END
+PSVIItem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/PSVIItem.hpp
+END
+PSVIAttributeList.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/PSVIAttributeList.hpp
+END
+XSModelGroupDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSModelGroupDefinition.hpp
+END
+XSAttributeGroupDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSAttributeGroupDefinition.hpp
+END
+XSWildcard.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSWildcard.hpp
+END
+PSVIAttribute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/PSVIAttribute.hpp
+END
+XSMultiValueFacet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSMultiValueFacet.hpp
+END
+XSTypeDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSTypeDefinition.hpp
+END
+XSElementDeclaration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSElementDeclaration.hpp
+END
+XSModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSModel.hpp
+END
+XSNotationDeclaration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSNotationDeclaration.hpp
+END
+XSParticle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSParticle.hpp
+END
+PSVIHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/PSVIHandler.hpp
+END
+XSSimpleTypeDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp
+END
+XSObject.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSObject.hpp
+END
+XSIDCDefinition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSIDCDefinition.hpp
+END
+XSAttributeDeclaration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSAttributeDeclaration.hpp
+END
+XSAnnotation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSAnnotation.hpp
+END
+XSNamespaceItem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSNamespaceItem.hpp
+END
+XSConstants.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSConstants.hpp
+END
+XSValue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSValue.hpp
+END
+XSModelGroup.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSModelGroup.hpp
+END
+XSNamedMap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/psvi/XSNamedMap.c
+END

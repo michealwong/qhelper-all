@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr
+END
+tdr_data_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_data_sort.h
+END
+tdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr.h
+END
+tdr_external.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_external.h
+END
+tdr_ctypes_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_ctypes_info.h
+END
+tdr_metalib_manage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_metalib_manage.h
+END
+tdr_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_net.h
+END
+tdr_metalib_to_hpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_metalib_to_hpp.h
+END
+tdr_operate_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_operate_data.h
+END
+tdr_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_error.h
+END
+tdr_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_define.h
+END
+tdr_XMLMetaLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_XMLMetaLib.h
+END
+tdr_sql.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_sql.h
+END
+tdr_metalib_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_metalib_init.h
+END
+tdr_data_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_data_io.h
+END
+tdr_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_types.h
+END
+tdr_meta_entries_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_meta_entries_index.h
+END
+tdr_XMLtags.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/tdr/tdr_XMLtags.h
+END

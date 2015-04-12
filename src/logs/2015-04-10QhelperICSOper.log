@@ -1,0 +1,10 @@
+[2015-04-10 17:17:01]-------------Read Auto QHelper Info Size[1]---------------
+[2015-04-10 17:17:01]-------------Read Auto Qhelper Info begin status: [0]---------------
+[2015-04-10 17:17:01]Read Auto QHelper Info:icsid=qhelper_test_20130705_1056|,sServiceID=532|, sKindID=0|, vCommmand=type=3&area=1&role_id=29735054&xxx=test&yyy=123|, iParaNum=0
+[2015-04-10 17:17:01]-------------更新单据[qhelper_test_20130705_1056]:结果为:[1]和状态: [1]:---------------
+[2015-04-10 17:17:02]-------------更新单据[qhelper_test_20130705_1056]:结果为:[3]和状态: [13]:---------------
+[2015-04-10 19:09:47]-------------Read Auto QHelper Info Size[1]---------------
+[2015-04-10 19:09:47]-------------Read Auto Qhelper Info begin status: [0]---------------
+[2015-04-10 19:09:47]Read Auto QHelper Info:icsid=qhelper_test_20130705_1056|,sServiceID=532|, sKindID=0|, vCommmand=type=3&area=1&role_id=29735054&xxx=test&yyy=123|, iParaNum=0
+[2015-04-10 19:09:47]-------------更新单据[qhelper_test_20130705_1056]:结果为:[1]和状态: [1]:---------------
+[2015-04-10 19:09:49]-------------更新单据[qhelper_test_20130705_1056]:结果为:[3]和状态: [15]:---------------

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network
+END
+inet_addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/inet_addr.h
+END
+tcp_connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/tcp_connector.h
+END
+tcp_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/tcp_stream.h
+END
+oss_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/oss_exception.h
+END
+udp_dgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/udp_dgram.h
+END
+error_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/error_handler.h
+END
+string_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/string_tools.h
+END
+tcp_acceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/tcp_acceptor.h
+END
+non_copyable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/non_copyable.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/network/socket.h
+END

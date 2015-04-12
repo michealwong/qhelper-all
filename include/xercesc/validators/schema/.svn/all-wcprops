@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema
+END
+XSDErrorReporter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XSDErrorReporter.hpp
+END
+XercesAttGroupInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XercesAttGroupInfo.hpp
+END
+GeneralAttributeCheck.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/GeneralAttributeCheck.hpp
+END
+SchemaElementDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaElementDecl.hpp
+END
+XUtil.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XUtil.hpp
+END
+SchemaValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaValidator.hpp
+END
+XMLSchemaDescriptionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XMLSchemaDescriptionImpl.hpp
+END
+SchemaGrammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaGrammar.hpp
+END
+SchemaSymbols.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaSymbols.hpp
+END
+XSDDOMParser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XSDDOMParser.hpp
+END
+TraverseSchema.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/TraverseSchema.hpp
+END
+SchemaInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaInfo.hpp
+END
+XercesElementWildcard.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XercesElementWildcard.hpp
+END
+SubstitutionGroupComparator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SubstitutionGroupComparator.hpp
+END
+XercesGroupInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XercesGroupInfo.hpp
+END
+XSDLocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/XSDLocator.hpp
+END
+PSVIDefs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/PSVIDefs.hpp
+END
+SchemaAttDefList.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaAttDefList.hpp
+END
+ComplexTypeInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/ComplexTypeInfo.hpp
+END
+NamespaceScope.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/NamespaceScope.hpp
+END
+SchemaAttDef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/SchemaAttDef.hpp
+END

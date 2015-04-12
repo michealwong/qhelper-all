@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype
+END
+HexBinaryDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/HexBinaryDatatypeValidator.hpp
+END
+Base64BinaryDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/Base64BinaryDatatypeValidator.hpp
+END
+AbstractNumericValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/AbstractNumericValidator.hpp
+END
+InvalidDatatypeValueException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/InvalidDatatypeValueException.hpp
+END
+DecimalDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DecimalDatatypeValidator.hpp
+END
+YearDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/YearDatatypeValidator.hpp
+END
+QNameDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/QNameDatatypeValidator.hpp
+END
+NCNameDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/NCNameDatatypeValidator.hpp
+END
+AnySimpleTypeDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/AnySimpleTypeDatatypeValidator.hpp
+END
+StringDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/StringDatatypeValidator.hpp
+END
+YearMonthDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/YearMonthDatatypeValidator.hpp
+END
+DatatypeValidatorFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DatatypeValidatorFactory.hpp
+END
+ListDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/ListDatatypeValidator.hpp
+END
+DateDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DateDatatypeValidator.hpp
+END
+DayDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DayDatatypeValidator.hpp
+END
+BooleanDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/BooleanDatatypeValidator.hpp
+END
+DatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DatatypeValidator.hpp
+END
+NameDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/NameDatatypeValidator.hpp
+END
+UnionDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/UnionDatatypeValidator.hpp
+END
+IDREFDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/IDREFDatatypeValidator.hpp
+END
+NOTATIONDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/NOTATIONDatatypeValidator.hpp
+END
+IDDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/IDDatatypeValidator.hpp
+END
+DateTimeDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DateTimeDatatypeValidator.hpp
+END
+AbstractNumericFacetValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/AbstractNumericFacetValidator.hpp
+END
+TimeDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/TimeDatatypeValidator.hpp
+END
+AbstractStringValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/AbstractStringValidator.hpp
+END
+DateTimeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DateTimeValidator.hpp
+END
+InvalidDatatypeFacetException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/InvalidDatatypeFacetException.hpp
+END
+XMLCanRepGroup.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/XMLCanRepGroup.hpp
+END
+FloatDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/FloatDatatypeValidator.hpp
+END
+AnyURIDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/AnyURIDatatypeValidator.hpp
+END
+DoubleDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DoubleDatatypeValidator.hpp
+END
+ENTITYDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/ENTITYDatatypeValidator.hpp
+END
+MonthDayDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/MonthDayDatatypeValidator.hpp
+END
+MonthDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/MonthDatatypeValidator.hpp
+END
+DurationDatatypeValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/datatype/DurationDatatypeValidator.hpp
+END

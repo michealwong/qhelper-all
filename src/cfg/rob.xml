@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rob>
+
+	<common>
+		<add key="group_id" value="532" desc="业务ID"/>
+		<add key="group_name" value="dnf2" desc=""/>
+	</common>
+	
+	<userlist>
+		<add key="v_wzhiwang" value="1" desc="是否发送重复补送预警邮件给该用户: 0-不发送 1-发送"/>
+		<add key="windhe" value="1" desc="是否发送重复补送预警邮件给该用户: 0-不发送 1-发送"/>
+	</userlist>
+	
+	<log>
+		<add key="DEBUG" value="0" desc="是否打印该级别日志: 0-不打印 1-打印"/>
+		<add key="INFO" value="1" desc="是否打印该级别日志: 0-不打印 1-打印"/>
+		<add key="WARNING" value="1" desc="是否打印该级别日志: 0-不打印 1-打印"/>
+		<add key="ERROR" value="1" desc="是否打印该级别日志: 0-不打印 1-打印"/>
+	</log>
+
+	<interface>
+		<common_interface>
+			<add key="vip_ip" value="172.27.129.27" desc=""/>
+			<add key="vip_port" value="5694" desc=""/>
+			<add key="vip_cmd" value="31000" desc=""/>
+			
+			<add key="web_http_proxy" value="10.137.130.179:80" desc=""/>
+			<add key="web_http_url" value="http://kf.cm.com/datainterface/ext_answer.php" desc=""/>
+      
+			<add key="web_http_proxy_R" value="10.140.13.16:80" desc=""/>
+			<add key="web_http_url_R" value="http://hlpupd.game.qq.com/cgi-bin/helper/app_rob.cgi" desc="Q游正式环境"/>
+			
+			<add key="web_http_proxy_R_T" value="10.132.24.70:80" desc=""/>
+			<add key="web_http_url_R_T" value="http://hlpupd_test.game.qq.com/cgi-bin/helper/app_rob.cgi" desc="Q游测试环境"/>
+			
+			<add key="cmlogserver" value="http://172.27.12.158/cgi-bin/140804/logmanagerserver" desc=""/>
+			<add key="dbserver" value="http://172.27.12.158/cgi-bin/140804/dbmanagerserver" desc=""/>
+			
+			<add key="cmlogserver_250" value="http://172.27.177.250/cgi-bin/140804/logmanagerserver" desc="ws_server_250"/>
+			<add key="dbserver_250" value="http://172.27.177.250/cgi-bin/140804/dbmanagerserver" desc="ws_server_250"/>
+
+			<add key="cmlogserver_189" value="http://172.27.181.189/cgi-bin/140804/logmanagerserver" desc="ws_server_189"/>
+			<add key="dbserver_189" value="http://172.27.181.189/cgi-bin/140804/dbmanagerserver" desc="ws_server_189"/>
+
+			<add key="cmlogserver_214" value="http://10.134.139.214/cgi-bin/140804/logmanagerserver" desc="ws_server_214"/>
+			<add key="dbserver_214" value="http://172.23.16.111/cgi-bin/140804/dbmanagerserver" desc="ws_server_214"/>
+      
+			<add key="ipserver" value="http://10.132.74.108:8081/ipaddress?ip=" desc="IP解释服务器"/>
+		</common_interface>
+	
+		<ics_oper>
+			<add key="ics_info_list" value="26806" desc="【qhelper自助】ICS单据读取【正式环境,测试环境分离】"/>
+			<add key="ics_status_update" value="26807" desc="单据状态结果更新"/>
+			<add key="ics_get_role_info" value="7433" desc="角色id查询信息，拿到uin， 角色等级，工会" type=""/>
+			
+			<add key="get_vip_info" value="26786" desc="查询心悦俱乐部内部会员" type=""/>
+			<add key="ics_user_trans_svr" value="7659" desc="用户转服信息"/>
+			<add key="guild_info" value="9125" desc="公会信息查询"/>
+			<add key="ics_apply_repeat_uin" value="5388" desc="24h重复来单"/>
+			
+			<add key="ics_get_role_list" value="369" desc="" type=""/>
+			
+			<add key="ics_item_send_mail" value="7434" desc="" type=""/>
+			
+			<add key="ics_info_one" value="26789" desc="Qhelper助手读取指定一条单据"/>
+			
+		</ics_oper>
+	
+		<ics_valid>
+			<add key="size_of_ics_one" value="1" desc=""/>
+			<add key="ics_id_only_one" value="qhelper_test_20130705_1056" desc="读取指定一条单据的单据ID"/>
+			<add key="interval_up" value="0" desc=""/>
+			<add key="interval" value="0" desc=""/>
+	
+			<add key="role_level" value="18" desc="等级限制18"/>
+		
+			<add key="receve_double" value="1" desc="receive_doble天内重复来单不受理； 普通用户和VIP暂为1天"/>
+			<add key="ics_source" value="(0,40,50)" desc="单据来源自段,可区分正式、测试单据(10--O线正式、30--R线正式、40--测试、50--回复预流失干预0--业受手动录入)"/>
+	
+			<add key="redis_ip" value="10.213.251.217" desc="正式环境redis ip地址"/>
+			<add key="redis_ip_test" value="10.132.24.70" desc="测试环境redis ip地址"/>
+			<add key="redis_port" value="10300" desc="redis 端口"/>
+
+		</ics_valid>
+	</interface>
+	
+	<ics-reply>
+	</ics-reply>
+	
+	<authority>
+		<add key="chanceli" value="1" desc="query"/>
+		<add key="asherzhou" value="3" desc="excute"/>
+		<add key="asherzhou" value="2" desc="write"/>
+	</authority>
+</rob>

@@ -1,0 +1,47 @@
+/*
+	author:kiddwang
+	date:2012-2-2
+*/
+#ifndef _OSS_UDP_IDIP_H
+#define _OSS_UDP_IDIP_H
+
+#include <fstream>
+#include <string>
+#include <vector>
+#include <map>
+#include "include/udp_dgram.h"
+
+
+using namespace OssBase;
+using namespace std;
+
+class COssUdpIDIP
+{
+private:
+	ofstream*		LogFile;//log文件
+	UdpDgram		udp;//upd
+
+public:
+	bool sendMsg(string m_sHost,int m_iPort,string scmd);
+	bool revMsg(map<string,string> &opData);
+
+	//获取当前时间
+	char* GetTime();
+	bool Split(std::string& src, const char* delim, unsigned int num, std::vector<std::string>& dst);
+	bool SplitToMap(std::string src, std::map<string,string>& dst, string delim, unsigned int num);
+	void PrintLog( const char* msg);//打印日志
+	
+public:
+	COssUdpIDIP(string logPath);
+	~COssUdpIDIP(void);
+
+private://禁用
+	COssUdpIDIP(void){}
+	COssUdpIDIP(COssUdpIDIP& udpIdip);
+
+
+};
+
+#endif //end of _OSS_UDP_IDIP_H
+
+

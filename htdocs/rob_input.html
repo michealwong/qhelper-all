@@ -1,0 +1,118 @@
+
+<html>
+<head>
+<title>盗号自助分析</title>
+<meta http-equiv="Content-Type" content="text/html; charset="utf-8">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<link href="/csFile/oss.css" rel="stylesheet" type="text/css">
+    <script language="javascript" src="/jsFile/File_config.js"></script>
+    <script language="javascript" src="/jsFile/dwc.js"></script>
+    <script language="javascript" src="/jsFile/Calendar.js"></script>
+    <script language="javascript" src="/jsFile/gburl.js"></script>
+    <script language="javascript" src="/jsFile/ajaxrequest.js"></script>
+    
+    <script language="javascript">
+
+         function PresentItem()
+         {
+         if (document.formMain.hid_IcsId.value == "" ) 
+               {
+                        alert("ICS单号不能为空");
+                         return;
+	        }
+	        
+//	        var icsid = document.formMain.hid_IcsId.value;
+//	        if(icsid.length != 18)
+//	        {
+//	                    alert("ICS单号不合法");
+//                        return;
+//	        }
+               if (document.formMain.hid_Uin.value == "" ) 
+               {
+                        alert("QQ不能为空");
+                         return;
+	        }
+	         if (document.formMain.hid_RoleId.value == "" ) 
+               {
+                        alert("角色Id不能为空");
+                         return;
+	        }
+               if (document.formMain.sel_Worldid.value == "" ) 
+               {
+                        alert("不能对所有大区操作");
+                         return;
+	        }
+                if (document.formMain.hid_BeginTime.value == "" ) 
+               {
+                        alert("最后登陆时间不能为空");
+                         return;
+	        }
+                if (document.formMain.hid_EndTime.value == "" ) 
+               {
+                        alert("发现被盗时间不能为空");
+                         return;
+	        }
+		
+              document.getElementById("loadingBar").style.display = "block";
+              window.location.href="/cgi-bin/auto/rob_manul_input?flag=no&sel_Worldid=" + document.formMain.sel_Worldid.value 
+              + "&hid_Uin=" + document.formMain.hid_Uin.value 
+              + "&hid_BeginTime=" + document.formMain.hid_BeginTime.value  
+              + "&hid_EndTime=" + document.formMain.hid_EndTime.value 
+              + "&hid_CreateTime="+document.formMain.hid_CreateTime.value           
+              +"&hid_IcsId="+document.formMain.hid_IcsId.value
+              +"&hid_RoleId="+document.formMain.hid_RoleId.value
+              +"&hid_RoleLevel="+document.formMain.hid_RoleLevel.value;
+              
+       }        
+    </script>
+</head>
+
+<body topMargin="0" onmouseover="self.status='盗号分析';return true">
+<form name=formMain action="" method="">
+<script language=javascript>showOperation('盗号分析');</script>
+    
+    <table class=list border=0>
+        <script language=javascript>showServer(1);</script>
+        <tr>
+            <td align=left style="width: 116px">被盗者QQ:</td>
+            <td align=left style="width: "><input type="text" name="hid_Uin" size="20" maxlength="20" value=""  onKeyUp='this.value=this.value.replace(/\D/gi,"")'> </td>
+        </tr>
+        <tr>
+            <td align=left style="width: 116px">角色ID:</td>
+            <td align=left style="width: "><input type="text" name="hid_RoleId" size="20" maxlength="20" value=""  onKeyUp='this.value=this.value.replace(/\D/gi,"")'> </td>
+        </tr>
+        <tr>
+            <td align=left style="width: 116px">角色等级:</td>
+            <td align=left style="width: "><input type="text" name="hid_RoleLevel" size="20" maxlength="20" value=""  onKeyUp='this.value=this.value.replace(/\D/gi,"")'> </td>
+        </tr>       
+        <tr>
+            <td align=left style="width: 116px">ICS单号:</td>
+            <td align=left style="width: "><input type="text" name="hid_IcsId" size="20" value=""></td>
+	    </tr>
+	    <tr>
+            <td align=left style="width: 116px">ICS填单时间:</td>
+            <td align=left style="width: "><input type="text" name="hid_CreateTime" size="20" value="">(时间格式: 2010-04-12 05:47:19)</td>
+	    </tr>
+        <tr>
+            <td align=left style="width: 116px">最后登陆时间:</td>
+            <td align=left style="width: "><input type="text" name="hid_BeginTime" size="20" value="" >(时间格式: 2010-04-12 05:47:19)</td>
+	    </tr>
+	    <tr>
+            <td align=left style="width: 116px">发现被盗时间:</td>
+            <td align=left style="width: "><input type="text" name="hid_EndTime" size="20" value="">(时间格式: 2010-04-12 05:47:19)</td>
+	    </tr>	    
+	    <tr>
+	        <td style="width: 116px"></td>
+	        <td style="width: "><input name="pre_button" type="button" value="提交" onClick="PresentItem()"></td>
+        </tr>
+    </table>
+            
+    <br />
+    <script languge=javascript>showHr();</script>
+   <DIV id=loadingBar align=center style="display:none">操作中......<IMG src="/img/pie.gif"></DIV>
+</form>
+<div id="ResShow" align=center></div>
+</body>
+
+</html>
+

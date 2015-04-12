@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/NetAccessors/Socket
+END
+SocketNetAccessor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/NetAccessors/Socket/SocketNetAccessor.hpp
+END
+UnixHTTPURLInputStream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/NetAccessors/Socket/UnixHTTPURLInputStream.hpp
+END

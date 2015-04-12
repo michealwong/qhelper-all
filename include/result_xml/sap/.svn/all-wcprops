@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap
+END
+type_xs.CgMonth.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CgMonth.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/StdAfx.h
+END
+type_xs.CunsignedShort.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CunsignedShort.h
+END
+sap.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap.vcproj
+END
+type_xs.CanySimpleType.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CanySimpleType.h
+END
+type_xs.CanyURI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CanyURI.h
+END
+type_.CitemsType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CitemsType.h
+END
+sap-typeinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap-typeinfo.cpp
+END
+type_xs.Cboolean.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cboolean.h
+END
+type_xs.Ctoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Ctoken.h
+END
+type_xs.CnegativeInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CnegativeInteger.h
+END
+sap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap.cpp
+END
+type_.CdataheadType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CdataheadType.h
+END
+type_xs.CgDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CgDay.h
+END
+type_xs.Cduration.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cduration.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/StdAfx.cpp
+END
+type_xs.CanyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CanyType.h
+END
+type_xs.Cbase64Binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cbase64Binary.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/Makefile
+END
+sap.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap.sln
+END
+type_xs.CNOTATION.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CNOTATION.h
+END
+type_xs.CdateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CdateTime.h
+END
+type_xs.Cinteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cinteger.h
+END
+type_xs.CQName.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CQName.h
+END
+type_xs.Cfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cfloat.h
+END
+type_xs.CstringType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CstringType.h
+END
+type_.CfieldType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CfieldType.h
+END
+type_xs.CNMTOKEN.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CNMTOKEN.h
+END
+type_xs.CIDREFS.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CIDREFS.h
+END
+type_xs.CgYearMonth.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CgYearMonth.h
+END
+sap-typeinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap-typeinfo.h
+END
+type_xs.ChexBinary.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.ChexBinary.h
+END
+type_xs.CIDREF.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CIDREF.h
+END
+type_xs.CnonPositiveInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CnonPositiveInteger.h
+END
+type_xs.CunsignedLong.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CunsignedLong.h
+END
+type_xs.CID.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CID.h
+END
+type_xs.Clong.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Clong.h
+END
+type_xs.CunsignedByte.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CunsignedByte.h
+END
+type_xs.CNCName.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CNCName.h
+END
+type_xs.Cbyte.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cbyte.h
+END
+type_.CresultType.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CresultType.h
+END
+type_xs.Cstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cstring.h
+END
+type_.Csap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.Csap.h
+END
+type_.CerrcodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CerrcodeType.h
+END
+type_xs.CENTITY.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CENTITY.h
+END
+type_.CsaprootType.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CsaprootType.h
+END
+type_.CresultsetType.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_.CresultsetType.h
+END
+type_xs.Clanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Clanguage.h
+END
+type_xs.CunsignedInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CunsignedInt.h
+END
+type_xs.CnonNegativeInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CnonNegativeInteger.h
+END
+type_xs.CintType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CintType.h
+END
+type_xs.Ctime.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Ctime.h
+END
+type_xs.Cdecimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cdecimal.h
+END
+type_xs.CNMTOKENS.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CNMTOKENS.h
+END
+type_xs.Cshort.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cshort.h
+END
+type_xs.CgYear.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CgYear.h
+END
+type_xs.Cdouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cdouble.h
+END
+type_xs.Cdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cdate.h
+END
+type_xs.CpositiveInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CpositiveInteger.h
+END
+type_xs.CName.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CName.h
+END
+type_xs.CENTITIES.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CENTITIES.h
+END
+sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/sap.h
+END
+type_xs.Cint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.Cint.h
+END
+type_xs.CgMonthDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CgMonthDay.h
+END
+type_xs.CnormalizedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap/type_xs.CnormalizedString.h
+END

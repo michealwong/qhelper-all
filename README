@@ -1,0 +1,40 @@
+#盗号半自助代码开发者手册
+
+Makefile的设置
+
+###编译宏###
+注意include目录下的make.macros中业务简称要随着业务的更换而更换
+
+###编译路径###
+请以这个路径下加业务简称的方式
+/data/RobGameSystem/Service/
+例如：
+/data/RobGameSystem/Service/dnf2
+
+###执行路径###
+/usr/local/games/robgame/bin/
+以上路径加上业务简称方式
+例如：
+/usr/local/games/robgame/bin/
+
+###执行方法###
+请参考rob_ics_auto_run.sh中的代码中的使用说明
+
+
+
+
+###############注意事项####################
+1、代码必须统一SVN管理，修改代码前先svn up Linux服务器修改代码和Window本地修改代码一定要svn commit -m ''
+2、所以代码必须“编译路径”内修改，切忌方便省事在“执行路径下修改”
+3、开发前的接口资源首先确认清楚。
+   例如：webservice的端口IP"http://172.27.133.140/cgi-bin/120228/dbmanagerserver";
+   
+   现在WEBSERVICE机器申请中，测试请先使用"http://172.23.16.11/cgi-bin/120228/dbmanagerserver";
+	
+   然后，再根据IP来申请到业务的logdb【日志服务器】的select权限，用户名和密码
+   
+4、盗号系统配置DB库和程序DB库 在10.134.139.215，具体表结构请参看文档《【数据库设计说明书】盗号自助系统开发文档V1.01.doc》。
+   切记：文档只是描述，具体的外网数据结构需要用"业务受理平台"的数据层来查看，方法不累述
+   
+
+   

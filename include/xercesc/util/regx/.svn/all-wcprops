@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx
+END
+UnionToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/UnionToken.hpp
+END
+XMLUniCharacter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/XMLUniCharacter.hpp
+END
+RangeTokenMap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RangeTokenMap.hpp
+END
+UnicodeRangeFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/UnicodeRangeFactory.hpp
+END
+Match.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/Match.hpp
+END
+BMPattern.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/BMPattern.hpp
+END
+RangeToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RangeToken.hpp
+END
+ASCIIRangeFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/ASCIIRangeFactory.hpp
+END
+BlockRangeFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/BlockRangeFactory.hpp
+END
+UniCharTable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/UniCharTable.hpp
+END
+RegxUtil.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RegxUtil.hpp
+END
+ParserForXMLSchema.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/ParserForXMLSchema.hpp
+END
+XMLRangeFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/XMLRangeFactory.hpp
+END
+ParenToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/ParenToken.hpp
+END
+OpFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/OpFactory.hpp
+END
+RegxDefs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RegxDefs.hpp
+END
+StringToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/StringToken.hpp
+END
+ConcatToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/ConcatToken.hpp
+END
+TokenFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/TokenFactory.hpp
+END
+TokenInc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/TokenInc.hpp
+END
+ClosureToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/ClosureToken.hpp
+END
+Op.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/Op.hpp
+END
+CharToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/CharToken.hpp
+END
+Token.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/Token.hpp
+END
+RegularExpression.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RegularExpression.hpp
+END
+RegxParser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RegxParser.hpp
+END
+RangeFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/util/regx/RangeFactory.hpp
+END

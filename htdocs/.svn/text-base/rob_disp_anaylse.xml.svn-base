@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HtmlCfg>
+  <title>分析结果查询</title>
+  <Notice>分析结果查询</Notice>
+  <Item id="1003">
+    <Title>ICS单号</Title>
+    <Type>edit_input</Type>
+    <Param>IcsId</Param>
+  </Item>
+  <result title="分析结果查询">
+    <conf  
+        value="rob_disp_icsinfo" 
+        cmcom_id="" 
+        base_sql="" 
+        term=" " 
+        end_sql="" 
+        trans=""></conf>
+    <url>/cgi-bin/auto/rob_disp_anaylseinfo</url>
+    <option  title="索引"  align="center"  width="30"  href=""  param="" >iID</option>
+    <option  title="ICS单号"  align="center"  width="110"  href=""  param="" >iICSId</option>
+    <option  title="QQ"  align="center"  width="70"  href=""  param="" >iUin</option>
+    <option  title="角色ID"  align="center"  width="70"  href=""  param="" >iRoleId</option>
+    <option  title="大区ID"  align="center"  width="30"  href=""  param="" >iWorldId</option>
+    <option  title="被盗时间"  align="center"  width="70"  href=""  param="" >dtEventTime</option>
+    <option  title="物品guid"  align="center"  width="110"  href=""  param="" >iItemGuid</option>
+    <option  title="物品id"  align="center"  width="60"  href=""  param="" >iItemId</option>
+    <option  title="类型"  align="center"  width="60"  href=""  param="" >iItemType</option>
+    <option  title="物数量"  align="center"  width="30"  href=""  param="" >iItemNum</option>
+    <option  title="流出类型"  align="center"  width="60"  href=""  param="" >vOutFlowType</option>
+    <option  title="处理状态"  align="center"  width="60"  href=""  param="" >iTraceStatus</option>
+    <option  title="追查结果"  align="center"  width="60"  href=""  param="" >iTraceRes</option>
+    <option  title="赠送数量"  align="center"  width="30"  href=""  param="" >iPresentNum</option>
+    <option  title="赠送结果"  align="center"  width="30"  href=""  param="" >iPresentRes</option>
+    <option  title="追查到时间"  align="center"  width="70"  href=""  param="" >dtTracedTime</option>
+    <option  title="追查到QQ"  align="center"  width="70"  href=""  param="" >iOwner</option>
+    <option  title="追查到角色ID"  align="center"  width="70"  href=""  param="" >iOwnerRoleId</option>
+    <option  title="事件类型"  align="center"  width="30"  href=""  param="" >iEventType</option>
+    <option  title="操作类型"  align="center"  width="30"  href=""  param="" >iOpType</option>
+    <option  title="操作结果"  align="center"  width="30"  href=""  param="" >iOpRes</option>
+  </result>
+</HtmlCfg>
+

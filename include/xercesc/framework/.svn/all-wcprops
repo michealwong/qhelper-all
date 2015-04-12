@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework
+END
+XMLBuffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLBuffer.hpp
+END
+LocalFileInputSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/LocalFileInputSource.hpp
+END
+XMLAttr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLAttr.hpp
+END
+XMLErrorReporter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLErrorReporter.hpp
+END
+XMLDocumentHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLDocumentHandler.hpp
+END
+ValidationContext.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/ValidationContext.hpp
+END
+URLInputSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/URLInputSource.hpp
+END
+XMLNotationDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLNotationDecl.hpp
+END
+XMLValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLValidator.hpp
+END
+XMLRefInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLRefInfo.hpp
+END
+XMLContentModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLContentModel.hpp
+END
+MemBufInputSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/MemBufInputSource.hpp
+END
+XMLGrammarPoolImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLGrammarPoolImpl.hpp
+END
+XMLValidityCodes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLValidityCodes.hpp
+END
+XMLSchemaDescription.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLSchemaDescription.hpp
+END
+XMLRecognizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLRecognizer.hpp
+END
+XMLErrorCodes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLErrorCodes.hpp
+END
+XMLEntityHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLEntityHandler.hpp
+END
+MemBufFormatTarget.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/MemBufFormatTarget.hpp
+END
+XMLDTDDescription.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLDTDDescription.hpp
+END
+XMLBufferMgr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLBufferMgr.hpp
+END
+XMLGrammarPool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLGrammarPool.hpp
+END
+XMLElementDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLElementDecl.hpp
+END
+StdOutFormatTarget.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/StdOutFormatTarget.hpp
+END
+MemoryManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/MemoryManager.hpp
+END
+BinOutputStream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/BinOutputStream.hpp
+END
+Wrapper4InputSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/Wrapper4InputSource.hpp
+END
+LocalFileFormatTarget.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/LocalFileFormatTarget.hpp
+END
+XMLGrammarDescription.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLGrammarDescription.hpp
+END
+StdInInputSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/StdInInputSource.hpp
+END
+Wrapper4DOMLSInput.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/Wrapper4DOMLSInput.hpp
+END
+XMLFormatter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLFormatter.hpp
+END
+XMLAttDefList.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLAttDefList.hpp
+END
+XMLEntityDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLEntityDecl.hpp
+END
+XMLPScanToken.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLPScanToken.hpp
+END
+XMLAttDef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/framework/XMLAttDef.hpp
+END

@@ -1,0 +1,12 @@
+[2015-04-10 17:17:01]------------------Start QhelperICSFliter-----------------
+[2015-04-10 17:17:01]Read ICS Count is 1
+[2015-04-10 17:17:01]ReadICSInfo GET ics_info size:1 and less than SIZE_OF_ICS Successfully
+[2015-04-10 17:17:01]UpdateICSProc iRet:0
+[2015-04-10 17:17:02]icsCheckValid.DoICSCheck iRetResult:13
+[2015-04-10 17:17:02]单据【qhelper_test_20130705_1056】验证失败!!!
+[2015-04-10 19:09:47]------------------Start QhelperICSFliter-----------------
+[2015-04-10 19:09:47]Read ICS Count is 1
+[2015-04-10 19:09:47]ReadICSInfo GET ics_info size:1 and less than SIZE_OF_ICS Successfully
+[2015-04-10 19:09:48]UpdateICSProc iRet:0
+[2015-04-10 19:09:49]icsCheckValid.DoICSCheck iRetResult:15
+[2015-04-10 19:09:49]单据【qhelper_test_20130705_1056】验证失败!!!

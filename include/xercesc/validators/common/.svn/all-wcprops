@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common
+END
+ContentSpecNode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/ContentSpecNode.hpp
+END
+CMBinaryOp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMBinaryOp.hpp
+END
+SimpleContentModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/SimpleContentModel.hpp
+END
+CMNode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMNode.hpp
+END
+DFAContentModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/DFAContentModel.hpp
+END
+CMAny.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMAny.hpp
+END
+GrammarResolver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/GrammarResolver.hpp
+END
+CMStateSet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMStateSet.hpp
+END
+CMUnaryOp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMUnaryOp.hpp
+END
+MixedContentModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/MixedContentModel.hpp
+END
+AllContentModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/AllContentModel.hpp
+END
+Grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/Grammar.hpp
+END
+CMRepeatingLeaf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMRepeatingLeaf.hpp
+END
+CMLeaf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/CMLeaf.hpp
+END
+ContentLeafNameTypeVector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/common/ContentLeafNameTypeVector.hpp
+END

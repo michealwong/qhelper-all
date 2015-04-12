@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HtmlCfg>
+  <title>ICS填单信息查询</title>
+  <Notice>ICS填单信息查询</Notice>
+  <Item id="1002">
+    <Title>被盗者QQ</Title>
+    <Type>uin_input</Type>
+    <Param>'hid_Uin'</Param>
+  </Item>
+  <Item id="1003">
+    <Title>ICS单号</Title>
+    <Type>edit_input</Type>
+    <Param>IcsId</Param>
+  </Item>
+  <Item id="1004">
+    <Title>登入时间段</Title>
+    <Type>DateDistance</Type>
+    <Param>3</Param>
+  </Item>
+  <result title="ICS填单信息查询">
+    <conf  
+        value="rob_disp_icsinfo" 
+        cmcom_id="" 
+        base_sql="" 
+        term="" 
+        end_sql=""
+        trans=""></conf>
+    <url>/cgi-bin/auto/rob_disp_icsinfo</url>
+    <option  title="ICS单号"  align="center"  width="120"  href=""  param="" >iID</option>
+    <option  title="QQ"  align="center"  width="80"  href=""  param="" >iUin</option>
+    <option  title="大区ID"  align="center"  width="50"  href=""  param="" >iWorld</option>
+    <option  title="角色ID"  align="center"  width="120"  href=""  param="" >iRoleId</option>
+    <option  title="角色等级"  align="center"  width="50"  href=""  param="" >iRoleLevel</option>
+    <option  title="ICS填单时间"  align="center"  width="80"  href=""  param="" >dtBookTime</option>
+    <option  title="最后登陆时间"  align="center"  width="80"  href=""  param="" >dtLastLogin</option>
+    <option  title="被盗时间"  align="center"  width="80"  href=""  param="" >dtRobedTime</option>
+
+    <option  title="玩家Vip等级"  align="center"  width="50"  href=""  param="" >iIsVip</option>
+    <option  title="分析状态"  align="center"  width="100"  href=""  param="" >iAnaylseRes</option>
+    <option  title="处理状态"  align="center"  width="100"  href=""  param="" >iHandRes</option>
+
+    <option  title="追查次数"  align="center"  width="80"  href=""  param="" >iTraceTimes</option>
+    <option  title="赃物总数"  align="center"  width="50"  href=""  param="" >iRobTotle</option>
+    <option  title="已处理数"  align="center"  width="50"  href=""  param="" >iRobHanded</option>
+
+  </result>
+</HtmlCfg>

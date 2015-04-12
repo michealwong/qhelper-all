@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity
+END
+ValueStore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/ValueStore.hpp
+END
+IC_Selector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IC_Selector.hpp
+END
+IdentityConstraintHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IdentityConstraintHandler.hpp
+END
+XPathSymbols.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/XPathSymbols.hpp
+END
+XercesXPath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/XercesXPath.hpp
+END
+IdentityConstraint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IdentityConstraint.hpp
+END
+IC_Field.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IC_Field.hpp
+END
+IC_KeyRef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IC_KeyRef.hpp
+END
+FieldActivator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/FieldActivator.hpp
+END
+XPathException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/XPathException.hpp
+END
+IC_Key.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IC_Key.hpp
+END
+ValueStoreCache.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/ValueStoreCache.hpp
+END
+XPathMatcherStack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/XPathMatcherStack.hpp
+END
+FieldValueMap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/FieldValueMap.hpp
+END
+IC_Unique.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/IC_Unique.hpp
+END
+XPathMatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/schema/identity/XPathMatcher.hpp
+END

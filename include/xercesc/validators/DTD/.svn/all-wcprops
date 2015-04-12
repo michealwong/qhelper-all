@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD
+END
+DTDElementDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDElementDecl.hpp
+END
+DTDAttDefList.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDAttDefList.hpp
+END
+DTDEntityDecl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDEntityDecl.hpp
+END
+DTDValidator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDValidator.hpp
+END
+DTDGrammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDGrammar.hpp
+END
+XMLDTDDescriptionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/XMLDTDDescriptionImpl.hpp
+END
+DTDAttDef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDAttDef.hpp
+END
+DTDScanner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DTDScanner.hpp
+END
+DocTypeHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/validators/DTD/DocTypeHandler.hpp
+END

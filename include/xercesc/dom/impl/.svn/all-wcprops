@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl
+END
+DOMXPathNSResolverImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMXPathNSResolverImpl.hpp
+END
+DOMAttrMapImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMAttrMapImpl.hpp
+END
+DOMAttrNSImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMAttrNSImpl.hpp
+END
+DOMEntityImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMEntityImpl.hpp
+END
+DOMNodeIDMap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNodeIDMap.hpp
+END
+DOMStringPool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMStringPool.hpp
+END
+DOMDeepNodeListImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDeepNodeListImpl.hpp
+END
+DOMDocumentTypeImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDocumentTypeImpl.hpp
+END
+DOMTextImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMTextImpl.hpp
+END
+DOMDeepNodeListPool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDeepNodeListPool.hpp
+END
+DOMErrorImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMErrorImpl.hpp
+END
+DOMElementImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMElementImpl.hpp
+END
+DOMCasts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMCasts.hpp
+END
+DOMNotationImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNotationImpl.hpp
+END
+DOMRangeImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMRangeImpl.hpp
+END
+DOMLSInputImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMLSInputImpl.hpp
+END
+DOMLSOutputImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMLSOutputImpl.hpp
+END
+DOMDocumentFragmentImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDocumentFragmentImpl.hpp
+END
+DOMLocatorImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMLocatorImpl.hpp
+END
+DOMChildNode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMChildNode.hpp
+END
+DOMConfigurationImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMConfigurationImpl.hpp
+END
+DOMLSSerializerImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMLSSerializerImpl.hpp
+END
+XSDElementNSImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/XSDElementNSImpl.hpp
+END
+DOMAttrImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMAttrImpl.hpp
+END
+DOMParentNode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMParentNode.hpp
+END
+DOMDocumentImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDocumentImpl.hpp
+END
+DOMProcessingInstructionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMProcessingInstructionImpl.hpp
+END
+DOMNodeListImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNodeListImpl.hpp
+END
+DOMImplementationListImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMImplementationListImpl.hpp
+END
+DOMDeepNodeListPool.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMDeepNodeListPool.c
+END
+DOMXPathResultImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMXPathResultImpl.hpp
+END
+DOMNodeImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNodeImpl.hpp
+END
+DOMImplementationImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMImplementationImpl.hpp
+END
+DOMNodeVector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNodeVector.hpp
+END
+DOMCharacterDataImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMCharacterDataImpl.hpp
+END
+DOMNamedNodeMapImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNamedNodeMapImpl.hpp
+END
+DOMElementNSImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMElementNSImpl.hpp
+END
+DOMEntityReferenceImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMEntityReferenceImpl.hpp
+END
+DOMTypeInfoImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMTypeInfoImpl.hpp
+END
+DOMNodeIteratorImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNodeIteratorImpl.hpp
+END
+DOMNormalizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMNormalizer.hpp
+END
+DOMCDATASectionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMCDATASectionImpl.hpp
+END
+DOMCommentImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMCommentImpl.hpp
+END
+DOMStringListImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMStringListImpl.hpp
+END
+DOMXPathExpressionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMXPathExpressionImpl.hpp
+END
+DOMTreeWalkerImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/xercesc/dom/impl/DOMTreeWalkerImpl.hpp
+END

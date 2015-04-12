@@ -1,0 +1,55 @@
+[2015-04-10 17:17:01]Get Function result
+[2015-04-10 17:17:01]Function Id value id is :26806
+[2015-04-10 17:17:01]GetLogicLog functionName: ics_info_list , sId: 26806
+[2015-04-10 17:17:01]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 17:17:01]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26806
+[2015-04-10 17:17:01]Get Function result
+[2015-04-10 17:17:01]Function Id value id is :26807
+[2015-04-10 17:17:01]GetLogicLog functionName: ics_status_update , sId: 26807
+[2015-04-10 17:17:01]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 17:17:01]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26807
+[2015-04-10 17:17:02]Get Function result
+[2015-04-10 17:17:02]Function Id value id is :26807
+[2015-04-10 17:17:02]GetLogicLog functionName: ics_status_update , sId: 26807
+[2015-04-10 17:17:02]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 17:17:02]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26807
+15-04-10 17:17:02]Get Function result
+[2015-04-10 17:17:02]Function Id value id is :26786
+[2015-04-10 17:17:02]GetLogicLog functionName: get_vip_info , sId: 26786
+[2015-04-10 17:17:02]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 17:17:02]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26786
+[2015-04-10 19:09:47]Get Function result
+[2015-04-10 19:09:47]Function Id value id is :26806
+[2015-04-10 19:09:47]GetLogicLog functionName: ics_info_list , sId: 26806
+[2015-04-10 19:09:47]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:47]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26806
+[2015-04-10 19:09:47]Get Function result
+[2015-04-10 19:09:47]Function Id value id is :26807
+[2015-04-10 19:09:47]GetLogicLog functionName: ics_status_update , sId: 26807
+[2015-04-10 19:09:47]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:48]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26807
+[2015-04-10 19:09:48]Get Function result
+[2015-04-10 19:09:48]Function Id value id is :7433
+[2015-04-10 19:09:48]GetLogicLog functionName: ics_get_role_info , sId: 7433
+[2015-04-10 19:09:48]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:48]SAP InterFace Function , Return ErrorCode : 0  Function Id: 7433
+[2015-04-10 19:09:48]Get Function result
+[2015-04-10 19:09:48]Function Id value id is :26786
+[2015-04-10 19:09:48]GetLogicLog functionName: get_vip_info , sId: 26786
+[2015-04-10 19:09:48]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:49]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26786
+[2015-04-10 19:09:49]Get Function result
+[2015-04-10 19:09:49]Function Id value id is :7659
+[2015-04-10 19:09:49]GetLogicLog functionName: ics_user_trans_svr , sId: 7659
+[2015-04-10 19:09:49]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:49]SAP InterFace Function sId: 7659 
+[2015-04-10 19:09:49]Get Function result
+[2015-04-10 19:09:49]Function Id value id is :9125
+[2015-04-10 19:09:49]GetLogicLog functionName: guild_info , sId: 9125
+[2015-04-10 19:09:49]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:49]SAP InterFace Function Error, Return ErrorCode : -20009  Function Id: 9125
+[2015-04-10 19:09:49]Get Function result
+[2015-04-10 19:09:49]Function Id value id is :26807
+[2015-04-10 19:09:49]GetLogicLog functionName: ics_status_update , sId: 26807
+[2015-04-10 19:09:49]Begin To Apply To  Interface Function to Get Data Result
+[2015-04-10 19:09:49]SAP InterFace Function , Return ErrorCode : 0  Function Id: 26807

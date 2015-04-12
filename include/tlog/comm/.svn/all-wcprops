@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm
+END
+shtable_shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/shtable_shm.h
+END
+comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/comm.h
+END
+terr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/terr.h
+END
+tmempool.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tmempool.h
+END
+terrimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/terrimpl.h
+END
+tlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tlist.h
+END
+tmodid.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tmodid.h
+END
+tparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tparser.h
+END
+shtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/shtable.h
+END
+swaitque.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/swaitque.h
+END
+tini.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tini.h
+END
+tmempool_shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tmempool_shm.h
+END
+tconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/tconvert.h
+END
+ttimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/tlog/comm/ttimer.h
+END

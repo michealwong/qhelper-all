@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml
+END
+sap.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap.xsd
+END
+sap_sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/sap_sample.xml
+END
+Makefile.rules
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Makefile.rules
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/result_xml/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/wsclient/dbmanager
+END
+soapH.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/wsclient/dbmanager/soapH.h
+END
+stdsoap2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/wsclient/dbmanager/stdsoap2.h
+END
+soapStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/wsclient/dbmanager/soapStub.h
+END
+soapdbmanagerProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sap/!svn/ver/78196/rob/qhelper-dnf2/include/wsclient/dbmanager/soapdbmanagerProxy.h
+END
